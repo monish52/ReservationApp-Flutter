@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681518863113",
+    "project_id": "reservation-ba0bd",
+    "storage_bucket": "reservation-ba0bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681518863113:android:fe89121733e8e7e2e9b9d8",
+        "android_client_info": {
+          "package_name": "com.monish.reservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681518863113-n9lvr3b4etfj9t7k0aneieds0p9o0uf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1HTTBBX3feDlm0Xc49_EN3d_6cWllWmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681518863113-n9lvr3b4etfj9t7k0aneieds0p9o0uf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
